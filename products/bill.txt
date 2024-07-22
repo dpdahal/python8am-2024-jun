@@ -1,0 +1,2 @@
+sn,userid,productname,price,quantity,total
+1,1,dell,3000,10,30000
